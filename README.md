@@ -3,4 +3,4 @@ Most Wanted Private and Public PHP Web Shells Can Be Downloaded Here. (Education
 
 I am not responsible for how you use this stuff.
 
-Default Password for All Shells (if required): wso
+Default Password for All Shells (if not available in shell description): wso
