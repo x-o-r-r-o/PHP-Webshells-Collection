@@ -1,7 +1,7 @@
 ## *NOTICE DO NOT DOWNLOAD SHELLS FROM EXPLOIT OR PHPSHELL*:
 * All Web Shells Located at websites mentioned below are infected.
 * [Exploit](http://exploit.com)
-* [lamer](http://phpshell.in/)
+* [PHPShell](http://phpshell.in/)
 
 The stuff they will download with their shells is listed below.
 * [lamer](http://phpshell.in/txt/lamer.txt)
